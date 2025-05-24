@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "dad65b3028ce8fd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f15dc28d76181563",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e031905aa43052b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Программирование/02 1С - Предприятие/02 Встроенный язык/Сериализация/JSON.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JSON"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "981ac2f94fafceb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f778d525f86b779e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c900ac5ff9c19205",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "d34781bcf16267d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Идеи_проектов/Comfort_explorer",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "2db0b73a2c8d0cac",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
+            }
+          },
+          {
+            "id": "e16319efa265a8cf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 285.5
+  },
+  "right": {
+    "id": "16ecc3bc9f5ac334",
+    "type": "split",
+    "children": [
+      {
+        "id": "25f7174b743407c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31ab57efba91960b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02 Программирование/01 .NET/05 Развертывание приложений .NET/02 Решения (Solutions).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для 02 Решения (Solutions)"
+            }
+          },
+          {
+            "id": "15e6e3ea345948a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 Идеи проектов/Целевые проекты/YourCoreFunctionality/04 Подробный функционал модулей.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из 04 Подробный функционал модулей"
+            }
+          },
+          {
+            "id": "bbf58c0dd549a4dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "3e7e31d052c20422",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02 Программирование/02 1С - Предприятие/02 Встроенный язык/Сериализация/JSON.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура JSON"
+            }
+          },
+          {
+            "id": "30e4f1383c4559bd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "93930b63a74c6a08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Идеи проектов/Целевые проекты/Comfort explorer/Анализатор треков.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Анализатор треков"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "28f674ae8ffe23b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3944bd72d34d7c0f",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "02 Программирование/02 1С - Предприятие/02 Встроенный язык/Сериализация/JSON.md"
+              },
+              "icon": "lucide-info",
+              "title": "Свойства файла для JSON"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Создать новый холст": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e031905aa43052b9",
+  "lastOpenFiles": [
+    "02 Программирование/02 1С - Предприятие/02 Встроенный язык/_Пользователи и роли 1С.md",
+    "02 Программирование/02 1С - Предприятие/02 Встроенный язык/_Оптимизация.md",
+    "02 Программирование/02 1С - Предприятие/02 Встроенный язык/_Встроенные функции глобального контекста.md",
+    "02 Программирование/02 1С - Предприятие/Синхронизация информационных баз.md",
+    "02 Программирование/02 1С - Предприятие/Лицензирование 1С.md",
+    "02 Программирование/02 1С - Предприятие/Встроенные функции.md",
+    "02 Программирование/02 1С - Предприятие/01 Введение в 1С.md",
+    "02 Программирование/02 1С - Предприятие/Полезные функции/Excel.md",
+    "02 Программирование/02 1С - Предприятие/Типовые конфигурации/1С - Бухгалтерия.md",
+    "02 Программирование/02 1С - Предприятие/Полезные функции/Удаление пустых строк.md",
+    "02 Программирование/02 1С - Предприятие/Полезные функции/Автозаполнение любой ИБ.md",
+    "02 Программирование/02 1С - Предприятие/GPT/Ручной запуск формы на основании.md",
+    "02 Программирование/02 1С - Предприятие/_MERGE_NOTES_77.md",
+    "02 Программирование/03 Web-технологии/01 CMS — Конструкторы сайтов.md",
+    "02 Программирование/03 Web-технологии/02 Headless CMS.md",
+    "02 Программирование/03 Web-технологии/04 CRM — Взаимоотношения с клиентами.md",
+    "02 Программирование/03 Web-технологии/Web-разработка/Структура web-приложения.md",
+    "02 Программирование/03 Web-технологии/Web-разработка/Web-фреймворки/Python/Обзор Python web-фреймворков.md",
+    "02 Программирование/03 Web-технологии/Web-разработка/Web-фреймворки/ASP.NET/01 Введение в ASP.NET.md",
+    "02 Программирование/03 Web-технологии/Web-разработка/03 JavaScript/Canvas API.md",
+    "02 Программирование/03 Web-технологии/Web-разработка/03 JavaScript/JQuery",
+    "02 Программирование/03 Web-технологии/Web-разработка/03 JavaScript/Node.JS",
+    "02 Программирование/03 Web-технологии/Web-разработка/03 JavaScript/Хранение данных.md",
+    "02 Программирование/03 Web-технологии/Web-разработка/03 JavaScript/12 Сборщик мусора.md",
+    "02 Программирование/03 Web-технологии/Web-разработка/03 JavaScript/11 Преобразование типов в JS.md",
+    "02 Программирование/03 Web-технологии/Web-разработка/03 JavaScript/10 Прототипное наследование.md",
+    "02 Программирование/03 Web-технологии/Web-разработка/03 JavaScript/09 Классы.md",
+    "02 Программирование/03 Web-технологии/Web-разработка/03 JavaScript/08 Конструкторы.md",
+    "02 Программирование/02 1С - Предприятие/05 Формы. Клиент-сервер/Программное управление формами",
+    "Files/-Fork-Clone.csv",
+    "Консоль кода.epf",
+    "02 Программирование/02 1С - Предприятие/Типовые конфигурации/1С - Бухгалтерия",
+    "02 Программирование/02 1С - Предприятие/Типовые конфигурации",
+    "02 Программирование/02 1С - Предприятие/05 Средства интеграции/CLI - консольный интерфейс",
+    "02 Программирование/02 1С - Предприятие/Конфигурация 1С ERP",
+    "02 Программирование/02 1С - Предприятие/05 Средства интеграции/HTML документы",
+    "01 Идеи проектов/Целевые проекты/Upper Level/Модули Core Functionality.svg",
+    "Files/1C_Редактор_граф_схемы_прил.png",
+    "Files/1C_Редактор_графической_схемы.png",
+    "Files/1C Shape-files.gif",
+    "Files/apptempl.gif",
+    "07 Математика/Теория вероятностей/Тетрадь - Теорвер/4TP_1.jpg",
+    "Files/Presentation_app_domain.png",
+    "Files/1С Интерфейс клиентского приложения.png",
+    "Files/1С Архитектура платформы.png",
+    "Files/Аскон Схема продуктов.png",
+    "Без названия 2.canvas",
+    "Без названия 1.canvas",
+    "Без названия.canvas"
+  ]
+}
